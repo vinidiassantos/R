@@ -1,3 +1,5 @@
+str <- "Hello World!"
+
 name <- "Vini"
 age <- 38
 
